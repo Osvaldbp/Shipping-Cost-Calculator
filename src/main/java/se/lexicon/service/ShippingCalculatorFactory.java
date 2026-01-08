@@ -1,5 +1,6 @@
 package se.lexicon.service;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import se.lexicon.model.ShippingRequest;
 
